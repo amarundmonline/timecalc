@@ -1,0 +1,24 @@
+{
+  "name": "timecalc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "email": "^0.2.6",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarundmonline/timecalc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarundmonline/timecalc/issues"
+  },
+  "homepage": "https://github.com/amarundmonline/timecalc#readme"
+}
